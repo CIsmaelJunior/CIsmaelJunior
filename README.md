@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CIsmaelJunior
-- 👀 I’m interested in 
+- 👀 I’m interested in mobile and web development with Laravel, Xamrin, ASP.NET Core 6, Python...
 - 🌱 I’m currently learning flutter
 - 💞️ I’m looking to collaborate on cross-platform app development
 - 📫 How to reach me ...
