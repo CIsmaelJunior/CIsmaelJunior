@@ -4,7 +4,7 @@
   <br/>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&width=1000&height=40&lines=%F0%9F%91%80+Interested+in+Laravel%2C+Xamarin%2C+ASP.NET+Core%2C+Python..." alt="Line 2" />
   <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=10B981&width=1000&height=40&lines=%F0%9F%8C%B1+Currently+learning+Flutter" alt="Line 3" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=10B981&width=1000&height=40&lines=%F0%9F%8C%B1+Flutter+Developer" alt="Line 3" />
   <br/>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8B5CF6&width=1000&height=40&lines=%F0%9F%92%9E+Looking+to+collaborate+on+cross-platform+apps" alt="Line 4" />
   <br/>
